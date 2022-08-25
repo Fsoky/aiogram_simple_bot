@@ -1,3 +1,6 @@
+# Архитектура
+![visual](https://github.com/Fsoky/AiogramLessons/blob/main/Screenshot_8.png)
+
 # План
 
 1. Aiogram Python [ 1 ] | Первые шаги
